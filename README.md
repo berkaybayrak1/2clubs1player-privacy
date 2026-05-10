@@ -1,4 +1,4 @@
-# 2Clubs1Player Privacy Policy
+# 2Clubs 1Player Privacy Policy
 
 2Clubs1Player may collect limited user information required for authentication, gameplay functionality, analytics, advertising, and in-app purchases.
 
